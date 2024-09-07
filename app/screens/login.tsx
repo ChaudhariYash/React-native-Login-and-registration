@@ -8,7 +8,7 @@ import {
   TouchableOpacity,
   Image,
 } from "react-native";
-// This is testing for git push
+
 const Login = () => {
   const navigation = useNavigation();
   const NavigatetocreateAccount = () => {
