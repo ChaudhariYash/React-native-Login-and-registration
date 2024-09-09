@@ -14,12 +14,12 @@ import {
 const CreateAccount = () => {
   const [showModal, setShowModal] = useState(false);
   const [secondModal, setSecondModal] = useState(false);
-  
+     
   const [passwordVisible, setPasswordVisible] = useState(false);
   const togglePasswordVisibility = () => {
     setPasswordVisible(!passwordVisible);
   };
-
+ // git push 
   const navigation = useNavigation();
   const NavigatetocreateAccount = () => {
     navigation.navigate("fifthPage");

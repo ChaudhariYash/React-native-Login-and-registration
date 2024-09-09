@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
   },
 
   imageStyle: {
-    //  resizeMode:'cover',
+   
     height: 50,
     width: 100,
     marginTop: 35,
@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
     marginBottom: 37,
   },
   LogoStyle: {
-    //resizeMode:'cover',
+   
     height: 25,
     width: 85,
     zIndex: 100,
@@ -112,7 +112,7 @@ const styles = StyleSheet.create({
     borderTopLeftRadius: 2,
   },
   button: {
-    // height:100,
+  
     paddingTop: 10,
     paddingBottom: 10,
     marginLeft: 10,
