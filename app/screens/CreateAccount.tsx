@@ -138,11 +138,10 @@ const CreateAccount = () => {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "#F7F4FF",
-    //  backgroundColor: 'black',
     flex: 0.5,
     paddingBottom: 20,
     paddingTop: 15,
-    // opacity:0.4,
+   
   },
 
   imageStyle: {
@@ -153,7 +152,7 @@ const styles = StyleSheet.create({
   LogoStyle: {
     height: 25,
     width: 85,
-    zIndex: 100,
+    zIndex: 100,   
     marginTop: 20,
     marginLeft: 165,
     marginBottom: 25,
