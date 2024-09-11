@@ -188,7 +188,7 @@ const styles = StyleSheet.create({
     marginLeft: 280,
   },
   button: {
-    // height:100,
+   
     paddingTop: 10,
     paddingBottom: 10,
     marginLeft: 10,
@@ -236,7 +236,7 @@ const styles = StyleSheet.create({
     marginBottom: 25,
   },
   modalbutton: {
-    // height:100,
+   
     paddingTop: 7,
     paddingBottom: 7,
     marginLeft: 10,
