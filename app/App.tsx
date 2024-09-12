@@ -5,7 +5,6 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import Splash from "./screens/splash";
 import Login from "./screens/login";
 import CreateAccount from "./screens/CreateAccount";
-
 import CreateAccountThree from "./screens/CreateAccount4";
 import OtpOne from "./screens/Otp1";
 import OtpTwo from "./screens/Otp2";
