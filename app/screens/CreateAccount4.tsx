@@ -50,7 +50,7 @@ const CreateAccountThree = () => {
         secureTextEntry={!passwordVisible} // toggle password visibility
       />
       <TouchableOpacity onPress={togglePasswordVisibility} style={styles.icon}>
-        <Icon name={passwordVisible ? 'eye-off' : 'eye'} size={20} color="gray" />
+        <Icon name={passwordVisible ?'eye' : 'eye-off' } size={20} color="gray" />
       </TouchableOpacity>
     </View>
 

@@ -30,8 +30,6 @@ const OtpOne = () => {
         <Text style={styles.timer}>00.32 </Text>
       </View>
 
-    
-
       <View>
         <TouchableOpacity onPress={NavigateOtpTwo} style={styles.button}>
           <Text style={styles.buttontext}>Done</Text>

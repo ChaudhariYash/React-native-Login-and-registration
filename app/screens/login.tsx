@@ -7,7 +7,7 @@ import {
   TextInput,
   TouchableOpacity,
   Image,
-} from "react-native";
+} from "react-native";0
 
 const Login = () => {
   const navigation = useNavigation();
