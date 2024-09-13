@@ -9,7 +9,7 @@ const Splash = ({}) => {
     setTimeout(() => {
       navigation.navigate("Login");
     }, 2000);
-  }, []);
+  }, []); //splash set to 2 sec
 
   return (
     <View style={styles.FirstPage}>
