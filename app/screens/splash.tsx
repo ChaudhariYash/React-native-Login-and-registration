@@ -7,7 +7,7 @@ const Splash = ({}) => {
 
   useEffect(() => {
     setTimeout(() => {
-      navigation.navigate("Login");
+      navigation.navigate("xyz"); // In App file (stack.screen name) you want to navigate
     }, 2000);
   }, []); //splash set to 2 sec
 
